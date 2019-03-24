@@ -7,7 +7,9 @@ Contributiors: Ryan Duckworth and Jan Polzer
 
 ### Shakespeare play text prediction
 
-We made a text generator producing a script to Shakepeare's play using Hidden Markov Model using a dataset from https://www.kaggle.com/kingburrito666/shakespeare-plays .
+We made a text generator producing a script for Shakepeare's play, using Hidden Markov Model  
+
+Dataset used: https://www.kaggle.com/kingburrito666/shakespeare-plays .
 
 The process is fully documented in [Jupiter Notebook](https://github.com/jancpp/machine_learning_hw2/blob/master/ML%20-%20Shakespeare%20play%20text%20prediction.ipynb) 
 
