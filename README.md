@@ -11,7 +11,7 @@ We made a text generator producing a script for Shakepeare's play, using Hidden 
 
 Dataset used: https://www.kaggle.com/kingburrito666/shakespeare-plays .
 
-The process is fully documented in [Jupiter Notebook](https://github.com/jancpp/machine_learning_hw2/blob/master/ML%20-%20Shakespeare%20play%20text%20prediction.ipynb) 
+The process is fully documented in [Jupyter Notebook](https://github.com/jancpp/machine_learning_hw2/blob/master/ML%20-%20Shakespeare%20play%20text%20prediction.ipynb) 
 
 
 Used references:
